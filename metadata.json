@@ -1,0 +1,8 @@
+{
+  "name": "Vishal Kumar Portfolio",
+  "description": "Premium video editing and motion graphics portfolio featuring a cinematic dark theme, Vimeo integration, and smooth animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
