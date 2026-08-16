@@ -74,7 +74,7 @@ export function VimeoModal({ vimeoLink, isOpen, onClose }: VimeoModalProps) {
             exit={{ scale: 0.95, opacity: 0 }}
             transition={{ type: "spring", damping: 25, stiffness: 300 }}
             onClick={(e) => e.stopPropagation()}
-            className="w-[calc(100vw-2rem)] h-[calc(100vh-2rem)] max-w-[56.25vh] aspect-[9/16] bg-black rounded-xl overflow-hidden shadow-2xl border border-white/10 relative"
+            className="h-[90vh] aspect-[9/16] bg-black rounded-xl overflow-hidden shadow-2xl border border-white/10 relative"
           >
             {embedUrl ? (
               <iframe
